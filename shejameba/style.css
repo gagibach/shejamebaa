@@ -1,0 +1,82 @@
+body {
+    background-color: rgba(243,234,227,255);
+}
+
+.div {
+    background-color:rgba(255,255,255,255) ;
+    height:300px;
+    width: 500px;
+    margin-left:400px ;
+    margin-top: 300px;
+    border-radius: 5%;
+    size: 50px;
+}
+
+.img {
+    height: 300px;
+    border-radius: 5%;
+    
+}
+ 
+.waw {
+    margin-left: 220px;
+    margin-top: -300px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500 ;
+} 
+
+.info {
+    margin-left: 260px;
+    font-family: "Fraunces", serif;
+    font-weight: 700;
+}
+
+.iinfo {
+    margin-left: 260px;
+    margin-top: -10px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+}
+
+.price {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    color: rgba(61,129,104,255);
+    margin-left: 220px;
+    margin-bottom: 20px;
+    margin-top: -15px;
+}
+
+.jojo {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 380;
+    text-decoration:line-through;
+    margin-left: 380px;
+    margin-top: -44px;
+}
+
+ div {
+    width: 230px;
+    height: 45px;
+    background-color:rgba(61,129,104,255) ;
+    margin-left: 640px;
+    margin-top: -75px;
+    border-radius: 3%;
+ }
+
+ .text{
+    font-family: "Fraunces", serif;
+    font-weight: 700;
+    margin-left: 65px;
+    color: aliceblue;
+    
+
+ }
+
+svg {
+    margin-top: 15px;
+}
+
+
+
+
